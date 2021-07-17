@@ -14,3 +14,4 @@
 ### Output:
 ![output format](https://github.com/SiddharthSadhwani/2021-DPS-AI/blob/master/utils/output.png?raw=true)
 ### The jupyter notebook [Main.ipynb](https://github.com/SiddharthSadhwani/2021-DPS-AI/blob/master/utils/input.png) covers the entire processing of generating historic visualisations, performing EDA and testing mulitple models.
+### Historic Visualisation plots can be found in [plots](https://github.com/SiddharthSadhwani/2021-DPS-AI/tree/master/plots).
