@@ -13,4 +13,4 @@
 ![input format](https://github.com/SiddharthSadhwani/2021-DPS-AI/blob/master/utils/input.png?raw=true)
 ### Output:
 ![output format](https://github.com/SiddharthSadhwani/2021-DPS-AI/blob/master/utils/output.png?raw=true)
-### The jupyter notebook [a link](https://github.com/SiddharthSadhwani/2021-DPS-AI/blob/master/utils/input.png) covers the entire processing of generating historic visualisations, performing EDA and testing mulitple models.
+### The jupyter notebook [Main.ipynb](https://github.com/SiddharthSadhwani/2021-DPS-AI/blob/master/utils/input.png) covers the entire processing of generating historic visualisations, performing EDA and testing mulitple models.
