@@ -1,5 +1,5 @@
 # 2021-DPS-AI
-## This repository contains Data Processing, Exploratory Data Analysis and creating a time series predicting model for the dataset " “Monatszahlen Verkehrsunfälle” that contains the record of accidents that occurred in Munich from 2020-2020.
+## This repository contains Data Processing, Exploratory Data Analysis and creating a time series predicting model for the dataset “Monatszahlen Verkehrsunfälle”.
 ## The dataset includes:
 * 'Alkoholunfälle' i.e. Alcohol accidents
 * 'Fluchtunfälle' i.e. Escape accidents
