@@ -13,8 +13,9 @@ app.secret_key='DPS-2021'
 def home():
 	model=pickle.load(open("models/ARIMA.sav","rb"))
 	if request.method == "POST":
-		year=request.form["year"]
-		month=request.form["month"]
+		json_data = request.json
+		year=json_data['year']
+		month=json_data['month']
 		pred=str(year)+"-"+str(month)+"-"+"01"
 		return jsonify({'prediction':int(model.get_prediction(pred).predicted_mean.values.tolist()[0])})
 	return "unsuccessful"
