@@ -17,7 +17,7 @@ def home():
 		year=json_data['year']
 		month=json_data['month']
 		pred=str(year)+"-"+str(month)+"-"+"01"
-		return jsonify({'prediction':int(model.get_prediction(pred).predicted_mean.values.tolist()[0])})
+		return {'prediction':int(model.get_prediction(pred).predicted_mean.values.tolist()[0])}
 	return "unsuccessful"
 
 if __name__ == '__main__':
